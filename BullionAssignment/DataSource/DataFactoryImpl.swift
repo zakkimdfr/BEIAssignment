@@ -2,7 +2,7 @@
 //  DataFactoryImpl.swift
 //  BullionAssignment
 //
-//  Created by Arif Rahman Sidik on 13/07/24.
+//  Created by Zakki Mudhoffar on 13/07/24.
 //
 
 import Foundation

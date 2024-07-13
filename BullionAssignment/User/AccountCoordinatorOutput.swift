@@ -2,7 +2,7 @@
 //  AccountCoordinatorOutput.swift
 //  BullionAssignment
 //
-//  Created byZakki Mudhoffar on 13/07/24.
+//  Created by Zakki Mudhoffar on 13/07/24.
 //
 
 import Foundation
